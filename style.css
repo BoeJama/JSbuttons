@@ -34,6 +34,63 @@ nav {
     font-size: 25px;
   }
 
+  #button1 {
+    float: right;
+  }
+
+  #button2 {
+    color: rgb(37, 37, 37);
+    background-color: #ddd;
+    border-color: rgb(37, 37, 37);
+  }
+
+  #button3 {
+    border-color: yellow;
+    border-radius: 500%;
+  }
+
+  #button4 {
+    font-size: 250%;
+  }
+
+  #button5 {
+    font-size: 1%;
+  }
+
+  #button6 {
+    padding: 5%;
+  }
+
+  #button7 {
+    padding-right: 62%;
+  }
+  
+  #button8 {
+    padding-bottom: 670px;
+    padding-right: 1180px;
+    background-image: url(https://preview.redd.it/iye3tptdcst21.jpg?auto=webp&s=37af7d01d2d448361e82d73a7d6329ed49e401b5);
+  }
+  
+  #button9 {
+    rotate: 45deg;
+  }
+  
+  #button10 {
+    display: flex;
+    float: center;
+  }
+  
+  #button11 {
+    padding-bottom: 25%;
+    border-radius: 50%;
+  }
+  
   #button12 {
     visibility: hidden;
+  }
+
+  #button12:hover {
+    color:rgb(37, 37, 37);
+    background-color: #ddd;
+    border-color:rgb(37, 37, 37);
   }
