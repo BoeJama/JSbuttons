@@ -3,7 +3,7 @@ function function1() {
 }
 
 function function2() {
-    document.getElementById("txt").innerHTML = "The KV Broadside in MW2 22 is one of the most annoying weapons in videogame history"
+    document.getElementById("txt").innerHTML = "The KV Broadside in MW2 22 is a very, very annoying gun"
 }
 
 function function3() {
@@ -22,7 +22,7 @@ function function4() {
 }
 
 function function5() {
-    document.getElementById("txt3").innerHTML = "Wrecking is considered one of the worst tanks in Overwatch. <br> The reason why is because he possibly has the highest skill ceiling in the game. <br> This means that most Balls you play against just suck as ball.<br> If you can get good at Hammond and embrace the ball one trick,<br> you will find out that Ball can actually be one of the best tanks in the game."
+    document.getElementById("txt3").innerHTML = "Wrecking Ball is considered one of the worst tanks in Overwatch. <br> The reason why is because he possibly has the highest skill ceiling in the game. <br> This means that most Balls you play against just suck as ball.<br> If you can get good at Hammond and embrace the ball one trick,<br> you will find out that Ball can actually be one of the best tanks in the game."
 }
 
 function function6() {
